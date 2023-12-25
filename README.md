@@ -48,8 +48,8 @@
 ## Output:
 ![280509269-56c4e9e7-f8e7-48d4-9ea9-c376ab87f384](https://github.com/charumathiramesh/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120204455/cc624d92-adeb-4a70-a093-91aeb5759313)
 
-### Name: CHARUMATHI R
-### Register Number: 212222240021
+### Name: V RAKSHA DHARANIKA
+### Register Number: 212223230167
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
